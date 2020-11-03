@@ -13,3 +13,6 @@ tasks:
 github:
     prebuilds:
         pullRequestsFromForks: true
+vscode:
+  extensions:
+    - scala-lang.scala@0.3.9:O5XmjwY5Gz+0oDZAmqneJw==
